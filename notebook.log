@@ -1,0 +1,35 @@
+nohup: ignoring input
+[I 2024-12-01 11:26:06.889 ServerApp] Extension package panel.io.jupyter_server_extension took 0.4001s to import
+[I 2024-12-01 11:26:06.889 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-12-01 11:26:06.889 ServerApp] jupyter_server_proxy | extension was successfully linked.
+[I 2024-12-01 11:26:06.891 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-12-01 11:26:06.892 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-12-01 11:26:06.894 ServerApp] notebook | extension was successfully linked.
+[I 2024-12-01 11:26:06.960 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-12-01 11:26:06.960 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
+[I 2024-12-01 11:26:06.965 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-12-01 11:26:06.966 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-12-01 11:26:06.972 ServerApp] jupyter_server_proxy | extension was successfully loaded.
+[I 2024-12-01 11:26:06.972 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-12-01 11:26:06.973 LabApp] JupyterLab extension loaded from /home/uav/anaconda3/envs/thor/lib/python3.11/site-packages/jupyterlab
+[I 2024-12-01 11:26:06.973 LabApp] JupyterLab application directory is /home/uav/anaconda3/envs/thor/share/jupyter/lab
+[I 2024-12-01 11:26:06.973 LabApp] Extension Manager is 'pypi'.
+[I 2024-12-01 11:26:06.978 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-12-01 11:26:06.979 ServerApp] notebook | extension was successfully loaded.
+[I 2024-12-01 11:26:06.980 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
+[I 2024-12-01 11:26:06.980 ServerApp] Serving notebooks from local directory: /home/uav/Documents/AI_Hunter/AI_Capstone
+[I 2024-12-01 11:26:06.980 ServerApp] Jupyter Server 2.14.0 is running at:
+[I 2024-12-01 11:26:06.980 ServerApp] http://localhost:8081/tree?token=0f0fdc5146016217dd986c2160dd98d0ec55badc7c893f83
+[I 2024-12-01 11:26:06.980 ServerApp]     http://127.0.0.1:8081/tree?token=0f0fdc5146016217dd986c2160dd98d0ec55badc7c893f83
+[I 2024-12-01 11:26:06.980 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2024-12-01 11:26:06.981 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/uav/.local/share/jupyter/runtime/jpserver-1881028-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8081/tree?token=0f0fdc5146016217dd986c2160dd98d0ec55badc7c893f83
+        http://127.0.0.1:8081/tree?token=0f0fdc5146016217dd986c2160dd98d0ec55badc7c893f83
+[I 2024-12-01 11:26:07.112 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-12-01 11:27:27.773 ServerApp] 302 GET / (@127.0.0.1) 0.94ms
+[C 2024-12-01 11:28:03.033 ServerApp] received signal 15, stopping
+[I 2024-12-01 11:28:03.034 ServerApp] Shutting down 7 extensions
