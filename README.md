@@ -81,6 +81,7 @@ Ensure that your environment has the following:
 ├── requirements.txt        # Required Python libraries
 ├── README.md               # Project documentation
 ├── tmp/                    # Temporary files (ignored in Git)
+├── app.py                  #chat interface to interact with out Scouting Agent
 ```
 
 ---
